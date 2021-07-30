@@ -1,5 +1,5 @@
-# artcbot
-reddit bot for /r/artc
+# cfbBot
+reddit bot for /r/cfbsecret
 
 made by /u/herumph
 
